@@ -15,6 +15,10 @@ by Cathy O'Neil, Data Scientist who wrote "Weapons of Math Destruction: How Big 
 
 I found her TedTalk video for reference.  There she says: "I have two more messages, one for the data scientists out there. Data scientists: we should not be the arbiters of truth. We should be translators of ethical discussions that happen in larger society.
 
-And the rest of you, the non-data scientists: this is not a math test. This is a political fight. We need to demand accountability for our algorithmic overlords."  
-https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+And the rest of you, the non-data scientists: this is not a math test. This is a political fight. We need to demand accountability for our algorithmic overlords."  https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+
 3) Learned of Qwant.com which claims that this search engine doesn't collect data from users.  https://en.wikipedia.org/wiki/Qwant  "Qwant is a French web search engine, launched in July 2013 and operated from Paris. It is one of the few EU-based search engines with its own indexing engine. It claims that it does not employ user tracking or personalize search results in order to avoid trapping users in a filter bubble. The search engine is available in 26 languages."
+
+
+## 12/12-13/2020
+Day 3 & 4 Finished Data Fit and Annotation. Started Optional Project: Create a Medical Image Annotation Job.  I hope to find a peer(s) to work on this together.
