@@ -22,3 +22,6 @@ And the rest of you, the non-data scientists: this is not a math test. This is a
 
 ## 12/12-13/2020
 Day 3 & 4 Finished Data Fit and Annotation. Started Optional Project: Create a Medical Image Annotation Job.  I hope to find a peer(s) to work on this together.
+
+## 12/14/2020
+Day 6  Continued to review the Optional project: Create a Medical Image Annotation Job.
