@@ -25,3 +25,6 @@ Day 3 & 4 Finished Data Fit and Annotation. Started Optional Project: Create a M
 
 ## 12/14/2020
 Day 6  Continued to review the Optional project: Create a Medical Image Annotation Job.
+
+## 12/15/2020
+Day 7 Reviewed the optional project and completed Lesson 4.1-5
