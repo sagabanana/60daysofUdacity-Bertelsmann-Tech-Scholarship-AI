@@ -28,3 +28,6 @@ Day 6  Continued to review the Optional project: Create a Medical Image Annotati
 
 ## 12/15/2020
 Day 7 Reviewed the optional project and completed Lesson 4.1-5
+
+## 12/16-18/2020
+Day 8, 9 and 10 Reviewed the optional project and completed Lesson 4.6-11.  Read and shared 1) https://www.propublica.org/article/only-seven-of-stanfords-first-5-000-vaccines-were-designated-for-medical-residents 2) https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted 3) https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-[…]IwAR0OQi8DUQu0YjdHxgKIAT_RXdNBJT4K2qPoVmVASNUZyO6fC1Jfeg-U2nY
