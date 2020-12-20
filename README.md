@@ -31,3 +31,14 @@ Day 7 Reviewed the optional project and completed Lesson 4.1-5
 
 ## 12/16-18/2020
 Day 8, 9 and 10 Reviewed the optional project and completed Lesson 4.6-11.  Read and shared 1) https://www.propublica.org/article/only-seven-of-stanfords-first-5-000-vaccines-were-designated-for-medical-residents 2) https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted 3) https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-[…]IwAR0OQi8DUQu0YjdHxgKIAT_RXdNBJT4K2qPoVmVASNUZyO6fC1Jfeg-U2nY
+
+## 12/19/2020
+Day 11 Completed Lesson 4.11-20
+
+Sharing Ursula K Le Guin's words:
+
+“Success is somebody else’s failure.”
+
+“Any human power can be resisted and changed by human beings”
+
+“What goes too long unchanged destroys itself.”
