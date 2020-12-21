@@ -31,6 +31,8 @@ Day 7 Reviewed the optional project and completed Lesson 4.1-5
 
 ## 12/16-18/2020
 Day 8, 9 and 10 Reviewed the optional project and completed Lesson 4.6-11.  Read and shared 1) https://www.propublica.org/article/only-seven-of-stanfords-first-5-000-vaccines-were-designated-for-medical-residents 2) https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted 3) https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/
+
+## 12/19/2020
 Day 11 Completed Lesson 4.11-20
 
 Sharing Ursula K Le Guin's words:
@@ -40,3 +42,14 @@ Sharing Ursula K Le Guin's words:
 “Any human power can be resisted and changed by human beings”
 
 “What goes too long unchanged destroys itself.”
+
+## 12/20/2020
+Day 12 started 4 Lesson 2 Optional Project:  Build a Model 
+
+Read and shared a read about Ubuntu.  "Ubuntu, how can one of be happy if all the other ones are sad?'
+
+Ubuntu is more commonly interpreted as ‘I am because we are’. It means that we are all a sum total not just of our own experiences but because we are social creatures, we are a collective summary of our own as well as the shared experiences of our society.
+
+Desmond Tutu beautifully said “A person is a person through other persons. None of us comes into the world fully formed. We would not know how to think, or walk, or speak, or behave as human beings unless we learned it from other human beings. We need other human beings in order to be human”.
+
+https://www.shradhahrd.com/blog/ubuntu-i-am-because-we-are/
