@@ -65,10 +65,22 @@ Then, when his mom said she wanted her own online store, the idea sprang from th
 
 ## 12/22/2020
 Day 13:  Continued with the 2nd optional project:  Build a model
-Read, shared and discussed about AI: 
+Read, shared and discussed AI: 
 1) 'On Tuesday, December 15, the Air Force successfully flew an AI copilot on a U-2 spy plane in California: the first time AI has controlled a U.S. military system.'
 The U.S. Air Force flew an artificial intelligence (AI) copilot on a U-2 spy plane in California.
 The flight marked the first time in the history of the Department of Defense that an AI took flight aboard a military aircraft.
 The AI algorithm, developed by Air Combat Command’s U-2 Federal Laboratory, trained the AI to execute specific in-flight tasks that would otherwise be done by the pilot.
 https://www.popularmechanics.com/military/aviation/a34978872/artificial-intelligence-controls-u2-spy-plane-air-force-exclusive/
 2) https://phys.org/news/2020-12-artificial-intelligence-schrdinger-equation.html
+
+Thought for the day.  The words of Sam Altman, the former president of Y Combinator and now the CEO of OpenAI from 'How to be Successful'
+
+3. Learn to think independently
+
+Entrepreneurship is very difficult to teach because original thinking is very difficult to teach. School is not set up to teach this—in fact, it generally rewards the opposite. So you have to cultivate it on your own.
+
+Thinking from first principles and trying to generate new ideas is fun, and finding people to exchange them with is a great way to get better at this. The next step is to find easy, fast ways to test these ideas in the real world.
+
+“I will fail many times, and I will be really right once” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
+
+One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution. The more times you do this, the more you will believe it. Grit comes from learning you can get back up after you get knocked down.
