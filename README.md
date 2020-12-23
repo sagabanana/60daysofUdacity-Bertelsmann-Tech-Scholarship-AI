@@ -62,3 +62,13 @@ Read and shared 2 articles:  1) https://www.bloomberg.com/news/articles/2020-12-
 Then, when his mom said she wanted her own online store, the idea sprang from that. He began working on the business and later quit college.
 “I started Base as a hobby,” he said. “But it was well-received by everyone, so I ended up setting up a company.”'
 2) https://blog.samaltman.com/how-to-be-successful Written by Sal Altman, President of Y Combinator
+
+## 12/22/2020
+Day 13:  Continued with the 2nd optional project:  Build a model
+Read, shared and discussed about AI: 
+1) 'On Tuesday, December 15, the Air Force successfully flew an AI copilot on a U-2 spy plane in California: the first time AI has controlled a U.S. military system.'
+The U.S. Air Force flew an artificial intelligence (AI) copilot on a U-2 spy plane in California.
+The flight marked the first time in the history of the Department of Defense that an AI took flight aboard a military aircraft.
+The AI algorithm, developed by Air Combat Command’s U-2 Federal Laboratory, trained the AI to execute specific in-flight tasks that would otherwise be done by the pilot.
+https://www.popularmechanics.com/military/aviation/a34978872/artificial-intelligence-controls-u2-spy-plane-air-force-exclusive/
+2) https://phys.org/news/2020-12-artificial-intelligence-schrdinger-equation.html
