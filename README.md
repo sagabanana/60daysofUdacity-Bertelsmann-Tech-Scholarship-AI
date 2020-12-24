@@ -84,3 +84,6 @@ Thinking from first principles and trying to generate new ideas is fun, and find
 “I will fail many times, and I will be really right once” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.
 
 One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution. The more times you do this, the more you will believe it. Grit comes from learning you can get back up after you get knocked down.
+
+## 12/23/2020
+Day 14:  Reviewed the 2nd optional project and started 5. Measuring Impact and Updating Models
