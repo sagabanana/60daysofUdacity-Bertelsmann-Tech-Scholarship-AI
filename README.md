@@ -87,3 +87,7 @@ One of the most powerful lessons to learn is that you can figure out what to do 
 
 ## 12/23/2020
 Day 14:  Reviewed the 2nd optional project and started 5. Measuring Impact and Updating Models
+
+## 12/24/2020
+Dady 15:  Completed  5.1.2 Measuring Impact and Updating Models - 5.2.6 Case Study: Video Annotation
+
