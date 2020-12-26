@@ -91,3 +91,6 @@ Day 14:  Reviewed the 2nd optional project and started 5. Measuring Impact and U
 ## 12/24/2020
 Dady 15:  Completed  5.1.2 Measuring Impact and Updating Models - 5.2.6 Case Study: Video Annotation
 
+## 12/25/2020
+Day 16:  Continued 5 Lesson 2 Case Study:  Video Annotation 
+Read and shared https://www.weforum.org/agenda/2020/11/ai-automation-creativity-workforce-skill-fute-of-work
