@@ -94,3 +94,27 @@ Dady 15:  Completed  5.1.2 Measuring Impact and Updating Models - 5.2.6 Case Stu
 ## 12/25/2020
 Day 16:  Continued 5 Lesson 2 Case Study:  Video Annotation 
 Read and shared https://www.weforum.org/agenda/2020/11/ai-automation-creativity-workforce-skill-fute-of-work
+
+## 12/26/2020
+Day 17:  Read and shared 'World order is going to be rocked by AI - this is how'
+https://www.weforum.org/agenda/2020/02/ai-looks-set-to-disrupt-the-established-world-order-here-s-how
+
+Sharing Sam Altman, the former president of Y Combinator and now the CEO of OpenAI from 'How to be Successful'
+
+'2. Have almost too much self-belief
+
+Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.
+
+Cultivate this early. As you get more data points that your judgment is good and you can consistently deliver results, trust yourself more.
+
+If you don’t believe in yourself, it’s hard to let yourself have contrarian ideas about the future. But this is where most value gets created.
+
+I remember when Elon Musk took me on a tour of the SpaceX factory many years ago. He talked in detail about manufacturing every part of the rocket, but the thing that sticks in memory was the look of absolute certainty on his face when he talked about sending large rockets to Mars. I left thinking “huh, so that’s the benchmark for what conviction looks like.”
+
+Managing your own morale—and your team’s morale—is one of the greatest challenges of most endeavors. It’s almost impossible without a lot of self-belief. And unfortunately, the more ambitious you are, the more the world will try to tear you down.  
+
+Most highly successful people have been really right about the future at least once at a time when people thought they were wrong. If not, they would have faced much more competition.
+
+Self-belief must be balanced with self-awareness. I used to hate criticism of any sort and actively avoided it. Now I try to always listen to it with the assumption that it’s true, and then decide if I want to act on it or not. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.
+
+This balance also helps you avoid coming across as entitled and out of touch.'
