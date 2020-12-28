@@ -118,3 +118,6 @@ Most highly successful people have been really right about the future at least o
 Self-belief must be balanced with self-awareness. I used to hate criticism of any sort and actively avoided it. Now I try to always listen to it with the assumption that it’s true, and then decide if I want to act on it or not. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.
 
 This balance also helps you avoid coming across as entitled and out of touch.'
+
+## 12/27/2020
+Day 18: Getting ready to pair up project teams #sg_strictly_project
