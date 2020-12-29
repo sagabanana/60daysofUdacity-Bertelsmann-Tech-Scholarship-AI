@@ -121,3 +121,14 @@ This balance also helps you avoid coming across as entitled and out of touch.'
 
 ## 12/27/2020
 Day 18: Getting ready to pair up project teams #sg_strictly_project
+
+## 12/28/2020
+Day 19:  Finished the last lesson 5, completed Bertelsman Scholarship Intro to AI in Businesss.
+Set up pair project teams for #sg_strictly_project
+
+Read https://bigthink.com/philip-perry/startup-promises-immortality-through-ai-nanotechnology-and-cloning
+https://www.weforum.org/agenda/2020/09/unexpected-benefits-virtual-education
+https://www.weforum.org/agenda/2020/10/ai-billion-trees-sahara-desert-technology
+
+"When you say, “Wait a moment,” you are bound by your own karma.  When you said “Yes I will,” you are free"
+-Suzuki Roshi ❤
