@@ -132,3 +132,28 @@ https://www.weforum.org/agenda/2020/10/ai-billion-trees-sahara-desert-technology
 
 "When you say, “Wait a moment,” you are bound by your own karma.  When you said “Yes I will,” you are free"
 -Suzuki Roshi ❤
+
+## 12/29/2020
+Day 20: 
+I read one of the most read 2020 MIT Technology Review and thought about how we can stop and relieve 
+the crippling damage that puts and keeps already disadvantaged people in the continuous disadvantaged loop.  
+I have been alerted of this news and nothing substantial has been done to correct this flawed system. 
+I think not so much that people don't care but complexity and its size of wrong is monumental to correct it all together.
+We are sort of looking at each other who is going to fix the error first.  What I can do at this moment is keep talking about 
+it until it gets fixed.
+Here is the link:
+https://www.technologyreview.com/2020/12/04/1013068/algorithms-create-a-poverty-trap-lawyers-fight-back/
+
+Lastly, I am sharing the words of Henry David Thoreau and a photo of the moon from last night
+
+I went to the woods because I wished to live deliberately, 
+to front only the essential facts of life, and see if I could not learn what it had to teach, 
+and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, 
+living is so dear; nor did I wish to practise resignation, unless it was quite necessary. 
+I wanted to live deep and suck out all the marrow of life, to live so sturdily and 
+Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, 
+to drive life into a corner, and reduce it to its lowest terms.
+
+Henry David Thoreau
+
+Photo:  the moon from last night
