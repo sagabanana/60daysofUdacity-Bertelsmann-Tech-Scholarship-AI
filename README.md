@@ -157,3 +157,17 @@ to drive life into a corner, and reduce it to its lowest terms.
 Henry David Thoreau
 
 Photo:  the moon from last night
+
+## 12/30/2020
+Day 21:  Read 'The post-app era: The next stage of education technology'
+
+Key highlight:  "So far, the growth of education technology has been limited, in part, because of missing #edtech leadership at the school, district, and state level. The expertise, experience, and vision is absent–which leads to more purchasing and policies than inspiration and design."
+
+"Education is suffering not just from a lack of edtech leadership, but a lack of frameworks and systems that ‘accept’ technology. The next stage of #edtech–and apps can be a big part of this–has to be smarter than the ‘solutions’ we’re currently settling for, or they’re not solutions at all."
+https://www.teachthought.com/technology/stages-of-education-technology/
+
+Read and shared an article on how developing AI models is adding up to a large carbon footprint and its grand cost that only a few select labs can afford to do it, and these a few will eventually decide the future of AI:  "All of this means that developing advanced AI models is adding up to a large carbon footprint. Unless we switch to 100% renewable energy sources, AI progress may stand at odds with the goals of cutting greenhouse emissions and slowing down climate change. The financial cost of development is also becoming so high that only a few select labs can afford to do it, and they will be the ones to set the agenda for what kinds of AI models get developed."
+
+"Looking forward, the AI community should invest more in developing energy-efficient training schemes. Otherwise, it risks having AI become dominated by a select few who can afford to set the agenda, including what kinds of models are developed, what kinds of data are used to train them and what the models are used for."
+
+https://theconversation.com/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-151825
