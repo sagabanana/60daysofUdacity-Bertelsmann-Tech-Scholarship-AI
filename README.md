@@ -171,3 +171,9 @@ Read and shared an article on how developing AI models is adding up to a large c
 "Looking forward, the AI community should invest more in developing energy-efficient training schemes. Otherwise, it risks having AI become dominated by a select few who can afford to set the agenda, including what kinds of models are developed, what kinds of data are used to train them and what the models are used for."
 
 https://theconversation.com/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-151825
+
+# 12/31/2020
+
+Day 22:  The last day of 2020, continuing with AI in Business. This is not directly related to AI, but a story of opportunity, decision making, dedication, preparedness, product/product management, taking risks, visionary; Dr. Sahin and follow-ups; his wife Dr. Türeci partnership and entrepreneurship. How this (scientist) couple from Turkey immigrated to Germany taking a chance, opportunity to make a better life for themselves and others and developed the record-setting Covid vaccine in just a few hours over a single day.  Normally it takes about 5 to 15 years.  They have been working on a vaccine to cure cancer for last 20 years and try the same idea to develop the Covid vaccine partnership with Pfizer.   It's always interesting to see how one thing leads to another, "Life is what happens to you while you're busy making other plans."  Here is the WSJ interview's audio recording with the creator of the record-setting Covid vaccine, Dr. Sahin. https://www.wsj.com/articles/how-a-couples-quest-to-cure-cancer-led-to-the-wests-first-covid-19-vaccine-11606905001
+
+Happy last day of 2020 and New Year!!:tada: :tada: :tada: :sparkles: :sparkles: :sparkles:
