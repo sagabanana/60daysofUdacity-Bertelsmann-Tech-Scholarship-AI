@@ -177,3 +177,11 @@ https://theconversation.com/it-takes-a-lot-of-energy-for-machines-to-learn-heres
 Day 22:  The last day of 2020, continuing with AI in Business. This is not directly related to AI, but a story of opportunity, decision making, dedication, preparedness, product/product management, taking risks, visionary; Dr. Sahin and follow-ups; his wife Dr. Türeci partnership and entrepreneurship. How this (scientist) couple from Turkey immigrated to Germany taking a chance, opportunity to make a better life for themselves and others and developed the record-setting Covid vaccine in just a few hours over a single day.  Normally it takes about 5 to 15 years.  They have been working on a vaccine to cure cancer for last 20 years and try the same idea to develop the Covid vaccine partnership with Pfizer.   It's always interesting to see how one thing leads to another, "Life is what happens to you while you're busy making other plans."  Here is the WSJ interview's audio recording with the creator of the record-setting Covid vaccine, Dr. Sahin. https://www.wsj.com/articles/how-a-couples-quest-to-cure-cancer-led-to-the-wests-first-covid-19-vaccine-11606905001
 (Dr. Sahin says "I'm confident that...we could have a normal winter next year") https://www.bbc.com/news/health-54949799
 Happy last day of 2020 and New Year!!:tada: :tada: :tada: :sparkles: :sparkles: :sparkles:
+
+## 1/1/2020
+Created more teams and added #sg_strictly_projects pair project teams in a doc and added the link of that doc to the Channel Topic to preserve the info for a longer time - thanks @Palak.Udacity's suggestion.
+Went over Lesson 2: Intro to AI and ML in Business 
+
+I listened to a sage, a Zen monk talk at Google.  Wrote and shared this gem talk to multiple channels, "Examine your life. Examine your motivation.  Take some time to listen to his talk."
+
+https://youtu.be/_ZSHNAiQomc
