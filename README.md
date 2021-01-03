@@ -185,3 +185,14 @@ Went over Lesson 2: Intro to AI and ML in Business
 I listened to a sage, a Zen monk talk at Google.  Wrote and shared this gem talk to multiple channels, "Examine your life. Examine your motivation.  Take some time to listen to his talk."
 
 https://youtu.be/_ZSHNAiQomc
+
+## 1/2/2021
+Working on #sg_strictly_projects team building and meetings
+Just read a research article on How Autism and Invention Are Connected; autism or extreme hyper-systemizing - some of the genes associated with hyper-systemizing are the same genes that code for autism.
+
+One study called, "Silicon Valley study" has found higher number of autism or hyper-systemizing - more than twice as high in the Silicon Valley of Netherlands compared with 2 other Dutch cities.  Which gives us solid insights self explains the unethical, insensitive, inhumane phenomenas we've been witnessing and hearing, for one, the Bay area's homeless crisis is beyond out of control - which in desperate needs of empathy, diversity and inclusion, arts and humanity in the tech industry.
+
+"The more your brain is tuned to seek such patterns, the less you can engage the brain's parallel circuit for empathy, another important and uniquely human capacity"
+"Autistic people were far more likely to be on the extreme hyper-systemizing end. People working in science, technology, engineering or math (STEM) fields—bastions of invention—had a higher number of autistic traits than those not working in STEM."
+
+https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260
