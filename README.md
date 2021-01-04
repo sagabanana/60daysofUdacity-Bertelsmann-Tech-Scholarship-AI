@@ -196,3 +196,7 @@ One study called, "Silicon Valley study" has found higher number of autism or hy
 "Autistic people were far more likely to be on the extreme hyper-systemizing end. People working in science, technology, engineering or math (STEM) fields—bastions of invention—had a higher number of autistic traits than those not working in STEM."
 
 https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260
+
+## 1/3/2021
+Had a first meeting with my pair-project team #11
+Created and documented our meeting on Google doc:  https://docs.google.com/document/d/1Xiu8nSYEMUh58c0DrKxg-VMe5n5mulCpM4PREL9PjTo/edit
