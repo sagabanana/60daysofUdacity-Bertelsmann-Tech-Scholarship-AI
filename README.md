@@ -200,3 +200,8 @@ https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260
 ## 1/3/2021
 Had the first meeting with my pair-project team #11
 Created and documented our meeting on Google doc:  https://docs.google.com/document/d/1Xiu8nSYEMUh58c0DrKxg-VMe5n5mulCpM4PREL9PjTo/edit
+
+## 1/4/2021
+Working on Optional Project #1:  Create a Medical Image Annotation Job
+Sharing a beautiful piano piece played by Glenn Gould, Concerto for Keyboard and Orchestra No. 5 in F Minor, BWV 1056: II. Largo
+https://youtu.be/4f47EmgnN7Y
