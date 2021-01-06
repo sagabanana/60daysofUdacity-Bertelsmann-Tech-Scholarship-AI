@@ -179,7 +179,7 @@ Day 22:  The last day of 2020, continuing with AI in Business. This is not direc
 Happy last day of 2020 and New Year!!:tada: :tada: :tada: :sparkles: :sparkles: :sparkles:
 
 ## 1/1/2020
-Created more teams and added #sg_strictly_projects pair project teams in a doc and added the link of that doc to the Channel Topic to preserve the info for a longer time - thanks @Palak.Udacity's suggestion.
+Day 23: Created more teams and added #sg_strictly_projects pair project teams in a doc and added the link of that doc to the Channel Topic to preserve the info for a longer time - thanks @Palak.Udacity's suggestion.
 Went over Lesson 2: Intro to AI and ML in Business 
 
 I listened to a sage, a Zen monk talk at Google.  Wrote and shared this gem talk to multiple channels, "Examine your life. Examine your motivation.  Take some time to listen to his talk."
@@ -187,7 +187,7 @@ I listened to a sage, a Zen monk talk at Google.  Wrote and shared this gem talk
 https://youtu.be/_ZSHNAiQomc
 
 ## 1/2/2021
-Working on #sg_strictly_projects team building and meetings
+Day 24: Working on #sg_strictly_projects team building and meetings
 Just read a research article on How Autism and Invention Are Connected; autism or extreme hyper-systemizing - some of the genes associated with hyper-systemizing are the same genes that code for autism.
 
 One study called, "Silicon Valley study" has found higher number of autism or hyper-systemizing - more than twice as high in the Silicon Valley of Netherlands compared with 2 other Dutch cities.  Which gives us solid insights self explains the unethical, insensitive, inhumane phenomenas we've been witnessing and hearing, for one, the Bay area's homeless crisis is beyond out of control - which in desperate needs of empathy, diversity and inclusion, arts and humanity in the tech industry.
@@ -198,10 +198,29 @@ One study called, "Silicon Valley study" has found higher number of autism or hy
 https://www.wsj.com/articles/how-autism-and-invention-are-connected-11607749260
 
 ## 1/3/2021
-Had the first meeting with my pair-project team #11
+Day 25: Had the first meeting with my pair-project team #11
 Created and documented our meeting on Google doc:  https://docs.google.com/document/d/1Xiu8nSYEMUh58c0DrKxg-VMe5n5mulCpM4PREL9PjTo/edit
 
 ## 1/4/2021
-Working on Optional Project #1:  Create a Medical Image Annotation Job
+Day 26: Working on Optional Project #1:  Create a Medical Image Annotation Job
 Sharing a beautiful piano piece played by Glenn Gould, Concerto for Keyboard and Orchestra No. 5 in F Minor, BWV 1056: II. Largo
 https://youtu.be/4f47EmgnN7Y
+
+## 1/5/2021
+
+Day 27: I read a lot today.  Among a number of things I read (and watched), I will share about the Turing test as the question, "Is The Turing Test Obsolete?" made me curious to understand the author's point of view recently. I will not write about my thoughts now but here is what 'Rohit Prassad, VP and head scientist of Alexa, argues that the Turing test has us barking up the wrong set of trees. He writes in Fast Company:
+
+I believe the goal put forth by Turing is not a useful one for AI scientists like myself to work toward. The Turing Test is fraught with limitations, some of which Turing himself debated in his seminal paper. With AI now ubiquitously integrated into our phones, cars, and homes, it’s become increasingly obvious that people care much more that their interactions with machines be useful, seamless and transparent—and that the concept of machines being indistinguishable from a human is out of touch.'
+(https://www.extremetech.com/computing/318767-is-the-turing-test-obsolete)
+
+While I was reading about the Turing test, I read interesting speculation about the test from Standford Encyclopedia of Philosophy:
+
+'The phrase “The Turing Test” is sometimes used more generally to refer to some kinds of behavioural tests for the presence of mind, or thought, or intelligence in putatively minded entities. So, for example, it is sometimes suggested that The Turing Test is prefigured in Descartes’ Discourse on the Method. (Copeland (2000:527) finds an anticipation of the test in the 1668 writings of the Cartesian de Cordemoy. Abramson (2011a) presents archival evidence that Turing was aware of Descartes’ language test at the time that he wrote his 1950 paper. Gunderson (1964) provides an early instance of those who find that Turing’s work is foreshadowed in the work of Descartes.) In the Discourse, Descartes says:
+
+If there were machines which bore a resemblance to our bodies and imitated our actions as closely as possible for all practical purposes, we should still have two very certain means of recognizing that they were not real men. The first is that they could never use words, or put together signs, as we do in order to declare our thoughts to others. For we can certainly conceive of a machine so constructed that it utters words, and even utters words that correspond to bodily actions causing a change in its organs. … But it is not conceivable that such a machine should produce different arrangements of words so as to give an appropriately meaningful answer to whatever is said in its presence, as the dullest of men can do. Secondly, even though some machines might do some things as well as we do them, or perhaps even better, they would inevitably fail in others, which would reveal that they are acting not from understanding, but only from the disposition of their organs. For whereas reason is a universal instrument, which can be used in all kinds of situations, these organs need some particular action; hence it is for all practical purposes impossible for a machine to have enough different organs to make it act in all the contingencies of life in the way in which our reason makes us act. (Translation by Robert Stoothoff) https://plato.stanford.edu/entries/turing-test/
+
+Lastly, to seal off the day, I didn't catch this until today. In Terminator 2, there's a scene that two robots talk to each other, both trying to convince by lying (Terminator gives T-1000 incorrect dog name intentionally to test) and questioning the other that they're human - a sure sign of the passing of the Turing test and this was done in 1991 and now 2021, ~30 years later!! After seeing this scene it's more believable than not that AI can and will eventually think, manipulate like humans and lie like in the movie.  Here is the clip, the only time that the T-1000 and T-800 actually talk to each other, they are both impersonating other people.  
+
+https://youtu.be/MT_u9Rurrqg
+
+To continue from @Enzo Erbano's #60daysofudacity post.  Check this out @Alexa. N. @Enzo Erbano @Joanna Pol :point_up_2: and thanks for your inspiration and support, always!!   
