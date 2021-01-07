@@ -224,3 +224,10 @@ Lastly, to seal off the day, I didn't catch this until today. In Terminator 2, t
 https://youtu.be/MT_u9Rurrqg
 
 To continue from @Enzo Erbano's #60daysofudacity post.  Check this out @Alexa. N. @Enzo Erbano @Joanna Pol :point_up_2: and thanks for your inspiration and support, always!!   
+
+## 1/6/2021
+Day 28: 
+Read and watched the documentary about a math teacher at the center of “Miyamoto and the Machine” who believes that a well-crafted puzzle can tell a story in numbers.  The inventor of KenKen puzzle, Miyamoto was asked about his thoughts on the puzzle created by the software and he replied, “I feel nothing from this puzzle,” Miyamoto remarks when shown the fruits of the software. “Do you think that, eventually, computers will be able to make a puzzle that is more similar to your puzzles?” Chris Flaherty, one of the film’s producers, asks Miyamoto. The Kenerator would never replace him, the sensei assures us. “Impossible,” he says. “A machine doesn’t have heart.”  This statement caused me to stop and think about what's more than the often ignored developing AI, the difference between human and AI in which truly make difference.  A reminder, the kind of attitude we should have when we are working, creating software/AI for others.
+https://www.newyorker.com/culture/the-new-yorker-documentary/the-puzzle-inventor-who-makes-math-beautiful
+
+Watched a bit of Geoff Hinton speaks about his latest research and the future of AI: https://youtu.be/N0ER1MC9cqM
