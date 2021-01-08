@@ -231,3 +231,8 @@ Read and watched the documentary about a math teacher at the center of “Miyamo
 https://www.newyorker.com/culture/the-new-yorker-documentary/the-puzzle-inventor-who-makes-math-beautiful
 
 Watched a bit of Geoff Hinton speaks about his latest research and the future of AI: https://youtu.be/N0ER1MC9cqM
+
+## 1/7/2021
+Day 29:
+Read and corresponded with other scholars on the Turing test; AI and Machine.  Here is the link for your review and one more: https://bertelsmannaitrack.slack.com/archives/C01HBNAA6JC/p1610076169251900?thread_ts=1609912890.102100&cid=C01HBNAA6JC
+https://bertelsmannaitrack.slack.com/archives/C01HBNAA6JC/p1610076862260500?thread_ts=1609912890.102100&cid=C01HBNAA6JC
