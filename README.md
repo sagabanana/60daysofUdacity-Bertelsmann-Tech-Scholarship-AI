@@ -236,3 +236,7 @@ Watched a bit of Geoff Hinton speaks about his latest research and the future of
 Day 29:
 Read and corresponded with other scholars on the Turing test; AI and Machine.  Here is the link for your review and one more: https://bertelsmannaitrack.slack.com/archives/C01HBNAA6JC/p1610076169251900?thread_ts=1609912890.102100&cid=C01HBNAA6JC
 https://bertelsmannaitrack.slack.com/archives/C01HBNAA6JC/p1610076862260500?thread_ts=1609912890.102100&cid=C01HBNAA6JC
+
+## 1/8/2021
+Day 30:
+Read and reply to Ai and the Turing test thread.  Worked on forming teams for #sg_strictly_projects
