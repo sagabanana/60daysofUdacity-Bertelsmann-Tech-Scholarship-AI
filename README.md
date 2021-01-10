@@ -240,3 +240,11 @@ https://bertelsmannaitrack.slack.com/archives/C01HBNAA6JC/p1610076862260500?thre
 ## 1/8/2021
 Day 30:
 Read and reply to Ai and the Turing test thread.  Worked on forming teams for #sg_strictly_projects
+
+## 1/9/2021
+Day 31:
+Continued with AI correspondence.
+
+Read about STEM gender inequality researchers and bias: On average, around 30% of the world's researchers are women.
+
+https://www.weforum.org/agenda/2020/02/stem-gender-inequality-researchers-bias/
