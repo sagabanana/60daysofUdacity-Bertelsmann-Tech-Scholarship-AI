@@ -248,3 +248,9 @@ Continued with AI correspondence.
 Read about STEM gender inequality researchers and bias: On average, around 30% of the world's researchers are women.
 
 https://www.weforum.org/agenda/2020/02/stem-gender-inequality-researchers-bias/
+
+## 1/10/2021
+Day 32: 
+Corresponded with my team about the project, #sg_strictly_projects we decided to meet bi-weekly.  Working on a startup idea and will be testing it tomorrow.  
+
+Thought of the moment:  I don't want to make a living, I want to live. 
