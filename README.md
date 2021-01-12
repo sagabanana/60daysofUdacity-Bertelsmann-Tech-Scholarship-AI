@@ -254,3 +254,7 @@ Day 32:
 Corresponded with my team about the project, #sg_strictly_projects we decided to meet bi-weekly.  Working on a startup idea and will be testing it tomorrow.  
 
 Thought of the moment:  I don't want to make a living, I want to live. 
+
+## 1/11/2021
+Day 33: Read and shared an article on Tech policy; "Big Tech’s attention economy can be reformed. Here’s how." https://www.technologyreview.com/2021/01/10/1015934/  Read some of the discussion on #60daysofudacity
+Tested my team's startup idea 
