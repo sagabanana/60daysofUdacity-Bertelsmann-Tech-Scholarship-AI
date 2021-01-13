@@ -258,3 +258,10 @@ Thought of the moment:  I don't want to make a living, I want to live.
 ## 1/11/2021
 Day 33: Read and shared an article on Tech policy; "Big Tech’s attention economy can be reformed. Here’s how." https://www.technologyreview.com/2021/01/10/1015934/  Read some of the discussion on #60daysofudacity
 Tested my team's startup idea 
+
+## 1/12/2021
+Day 34:  Continued working on a startup idea, working on creating a new team #sg_strictly_projects 
+
+Thought of the day-night:
+‘And how should we behave during this Apocalypse? We should be unusually kind to one another, certainly. But we should also stop being so serious. Jokes help a lot. And get a dog, if you don’t already have one.’
+Kurt Vonnegut - The Idea Killers, 1984.
