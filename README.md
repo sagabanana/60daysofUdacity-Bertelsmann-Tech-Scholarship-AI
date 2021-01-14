@@ -265,3 +265,25 @@ Day 34:  Continued working on a startup idea, working on creating a new team #sg
 Thought of the day-night:
 ‘And how should we behave during this Apocalypse? We should be unusually kind to one another, certainly. But we should also stop being so serious. Jokes help a lot. And get a dog, if you don’t already have one.’
 Kurt Vonnegut - The Idea Killers, 1984.
+
+## 1/13/2021
+
+Day 35: Reading on Andrew Ng's thoughts on how AI could support democracy.  He begins stating
+
+'Democracy stands on several pillars, among them:
+
+1. Citizens who are informed by truthful perspectives supported by a free press and scientific enquiry
+2. Institutions that create and enforce laws to make sure that society operates according to rules
+3. Free and fair elections in which each individual has a vote that counts'
+
+And how the AI community can strengthen all three:
+
+'As ambiguous information surfaces and is tossed into the grinder of social media, recommendation engines can drive polarization. How can we build recommenders that bring people together rather than driving them apart?
+
+Decisions to ban polarizing entities — including President Trump — from tech platforms have appeared to be made ad hoc. Instead, they need to be based on rules that are fair and consistently applied. If companies and regulators can develop such rules — which will not be easy — AI can play a significant role in implementing them at scale.
+
+Digital tools have been used to selectively discourage voting and to gerrymander. On the positive side, they’ve also been used to inform voters and drive turnout. We need to develop new categories of tools and muster the political will to use them o empower all voters.'
+
+https://info.deeplearning.ai/the-batch-propagandists-lie-about-ai-language-models-grok-images-machines-triage-covid-cases-world-models-shrink?ecid=ACsprvuhFb1lmQai8VicNEWuQcCyr4UUwqMxtRPjWRJqTwcgxGy4EMBM5d4zyPS-Ot1m0Z3DVcuu&utm_campaign=The%20Batch&utm_medium=email&_hsmi=106462423&_hsenc=p2ANqtz--ria-LvRR-trqIDYa3Tm0P4NROLa2pUkRk9NW3WTH3BhdIxaeOYr1_CtvDKM3y9207aKj5U_V4w5BjMvQfhFiKU9cMKg&utm_content=106462423&utm_source=hs_email
+
+Another article, 'Google trained a trillion-parameter AI language model' saved for tomorrow:  https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/
