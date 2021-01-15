@@ -301,3 +301,18 @@ https://theconversation.com/consumer-electronics-have-changed-a-lot-in-20-years-
 
 3) “It’s a methodology that helps you define the value of your product to customers and crystallize what you’re building and why you’re building it,” Cast said. “It precedes any work by engineers."
 https://www.geekwire.com/2021/working-backwards-customer-inside-amazons-strategy-launch-new-products/https://theconversation.com/consumer-electronics-have-changed-a-lot-in-20-years-systems-for-managing-e-waste-arent-keeping-up-147972
+
+## 1/15/2021
+
+Day 37:
+
+Following from yesterday's read, 'the Max Planck Society assessed humans' capabilities for controlling killer AI' I read the actual press release from the Max Plack Institute for Human development which warns 'Endowing AI with noble goals may not prevent unintended consequences.' with the title 'Computer Scientists: We Wouldn’t Be Able to Control Superintelligent Machines New Findings From Theoretical Computer Science'
+
+'We are fascinated by machines that can control cars, compose symphonies, or defeat people at chess, Go, or Jeopardy! While more progress is being made all the time in Artificial Intelligence (AI), some scientists and philosophers warn of the dangers of an uncontrollable superintelligent AI. Using theoretical calculations, an international team of researchers, including scientists from the Center for Humans and Machines at the Max Planck Institute for Human Development, shows that it would not be possible to control a superintelligent AI. The study was published in the Journal of Artificial Intelligence Research.'
+
+https://www.mpib-berlin.mpg.de/computer-science-superintelligent-machines
+
+Today's reflection: 
+
+"When you look back at your own life, you see ... the sufferings you went through, each time you would have avoided it if you possibly could.  And yet, when you look at the depth of your character now, isn't a part of that a product of those experiences?  Weren't those experiences part of what created the depth of your inner being?"
+- Ram Dass
