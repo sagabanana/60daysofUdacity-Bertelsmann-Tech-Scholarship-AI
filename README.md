@@ -287,3 +287,17 @@ Digital tools have been used to selectively discourage voting and to gerrymander
 https://info.deeplearning.ai/the-batch-propagandists-lie-about-ai-language-models-grok-images-machines-triage-covid-cases-world-models-shrink?ecid=ACsprvuhFb1lmQai8VicNEWuQcCyr4UUwqMxtRPjWRJqTwcgxGy4EMBM5d4zyPS-Ot1m0Z3DVcuu&utm_campaign=The%20Batch&utm_medium=email&_hsmi=106462423&_hsenc=p2ANqtz--ria-LvRR-trqIDYa3Tm0P4NROLa2pUkRk9NW3WTH3BhdIxaeOYr1_CtvDKM3y9207aKj5U_V4w5BjMvQfhFiKU9cMKg&utm_content=106462423&utm_source=hs_email
 
 Another article, 'Google trained a trillion-parameter AI language model' saved for tomorrow:  https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/
+
+## 1/14/2021
+
+Day 36: Working on the optional project.  Today's reading:  1) Researchers from the Max Planck Society assessed humans' capabilities for controlling killer AI.
+https://interestingengineering.com/superintelligent-ai-cannot-be-controlled-report-warns
+
+2) "Consumer electronics have changed a lot in 20 years –  systems for managing e-waste aren't keeping up" —
+Technical advances are reducing the volume of e-waste generated in the U.S.  But those smaller and lighter products are even harder to recycle.
+'Government, industry and consumers all have roles to play. Progress will require designing products that are easier to repair and reuse, and persuading consumers to keep their devices longer.
+We also see a need for responsive e-waste laws in place of today’s dated patchwork of state regulations. Establishing convenient, certified recycling locations can keep more electronics out of landfills. With retooled operations, recyclers can recover more valuable materials from the e-waste stream. Steps like these can help balance our reliance on electronic devices with systems that better protect human health and the environment.'  
+https://theconversation.com/consumer-electronics-have-changed-a-lot-in-20-years-systems-for-managing-e-waste-arent-keeping-up-147972
+
+3) “It’s a methodology that helps you define the value of your product to customers and crystallize what you’re building and why you’re building it,” Cast said. “It precedes any work by engineers."
+https://www.geekwire.com/2021/working-backwards-customer-inside-amazons-strategy-launch-new-products/https://theconversation.com/consumer-electronics-have-changed-a-lot-in-20-years-systems-for-managing-e-waste-arent-keeping-up-147972
