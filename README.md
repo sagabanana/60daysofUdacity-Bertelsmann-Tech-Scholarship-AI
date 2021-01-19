@@ -316,3 +316,34 @@ Today's reflection:
 
 "When you look back at your own life, you see ... the sufferings you went through, each time you would have avoided it if you possibly could.  And yet, when you look at the depth of your character now, isn't a part of that a product of those experiences?  Weren't those experiences part of what created the depth of your inner being?"
 - Ram Dass
+
+## 1/16/2021
+Day 38: 
+Working on the optional project
+Bias can creep in at many stages of the deep-learning process, and the standard practices in computer science aren’t designed to detect it.
+https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix
+
+A complement to bias, diversity advocate Vernā Myers commands us to starts with moving toward — and not away from — what makes you uncomfortable. '[Vernā Myers] makes a plea to all people: Acknowledge your biases. Then move toward, not away from, the groups that make you uncomfortable.'
+https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them?utm_source=tedcomshare&utm_medium=social&utm_campaign=tedspread
+
+## 1/17/2021
+Day 39:
+
+Corresponded with my team about the optional project #1, #sg_strictly_projects.  
+
+Today's reading:  
+
+A robot knocks on your door to deliver a freshly brewed cup of coffee, which you ordered just minutes earlier with one tap on your smartphone. This vision of the future could soon turn into reality as Japanese companies have started testing autonomous delivery robots on public streets. This comes as the need for social distancing amid the coronavirus pandemic has pushed up demand for autonomous delivery services.
+https://www3.nhk.or.jp/nhkworld/en/news/backstories/1443
+
+IBM has built a new chemistry lab called RoboRXN in the cloud. It combines AI models, a cloud computing platform, and robots to help scientists design and synthesize new molecules while working from home
+https://www.technologyreview.com/2020/08/28/1007737/ibm-ai-robot-drug-making-lab-in-the-cloud/
+
+Saving for later: The historian Yuval Noah Harari guides through the co-evolution of technology and democracy throughout human history, from paleolithic tribes to city states to kingdoms to nation states. So where do we go from here? Listen to the possibilities (~2 hr. listen)
+https://www.humanetech.com/podcast/28-two-million-years-in-two-hours-a-conversation-with-yuval-noah-harari
+
+Reflection: “Try to be better than yourself.” —William Faulkner
+
+## 1/18/2021
+Day 40:
+Continued with the optional project and thanks to @Joanna Pol read https://towardsdatascience.com/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8
