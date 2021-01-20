@@ -347,3 +347,6 @@ Reflection: “Try to be better than yourself.” —William Faulkner
 ## 1/18/2021
 Day 40:
 Continued with the optional project and thanks to @Joanna Pol read https://towardsdatascience.com/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8
+
+## 1/19/2021
+Day 41: Corresponded with #sg_strictly_projects scholars and created another team.  Continue working on the optional projects
