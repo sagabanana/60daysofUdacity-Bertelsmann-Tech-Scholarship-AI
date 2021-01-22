@@ -350,3 +350,30 @@ Continued with the optional project and thanks to @Joanna Pol read https://towar
 
 ## 1/19/2021
 Day 41: Corresponded with #sg_strictly_projects scholars and created another team.  Continue working on the optional projects
+
+## 1/20/2021
+
+Day 42: Today's reading:
+
+1) Change is a key characteristic of the 21st century--a cause & effect. And change in education technology specifically can impact teaching.
+
+https://www.teachthought.com/technology/5-ways-rapid-technology-change-impacts-education/
+
+2) Saving it for later, 'Thinking Fast and Slow and the Third Wave of AI' with insights from Luis Lamb (Neurosymbolic AI), Danial Kahneman (Thinking Fast and Slow), and Francesca Rossi (Thinking Fast and Slow in AI, IBM) from the #aidebate2 organized by Montreal AI
+
+https://medium.com/towards-artificial-intelligence/thinking-fast-and-slow-and-the-third-wave-of-ai-79156b5545e8#d74f
+
+3) Ideally, technology should help us to create a more balanced, equal, and fair world, not use it to continue and advance a more inequitable, discriminatory world. If the methods are unsustainable, of course, the results unsustainable.
+
+"If we don’t want our technology to be used to perpetuate racism, then we must make sure that we don’t conflate social problems like crime or violence or disease with black and brown people. When we do that, we risk turning those people into the problems that we deploy our technology to solve, the threat we design it to eradicate."
+https://www.technologyreview.com/2020/06/03/1002589/technology-perpetuates-racism-by-design-simulmatics-charlton-mcilwain/
+
+## 1/21/2021
+Day 43: Working on the optional projects
+
+Today's read:  
+Google investigates another top AI ethicist.
+
+'Why it matters: The probe follows the forced exit of Timnit Gebru, a prominent researcher also on the AI ethics team at Google whose ouster ignited a firestorm among Google employees.'
+
+https://www.axios.com/scoop-google-is-investigating-the-actions-of-another-top-ai-e[…]=IwAR3SExFn2ws0dhH9Y0aaLFk_C9Vu5fL-bWSj0J3GeLQUpR1gLyZQNudYjg4
