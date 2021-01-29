@@ -406,3 +406,49 @@ they can change the world, are the ones who do.
 
 Apple "Think Different" (Steve Jobs narrated)
 http://www.thecrazyones.it/spot-en.html
+
+## 1/23 & 24/2021
+Day 45 & 46:  Working on the optional projects
+Reading:  Who's really benefitting from the AI Chatbots?  The Microsoft patent explains that the system would access images, voice data, social media posts, electronic messages and the like to "create or modify a special index in the theme of the specific person's personality."
+https://www.cnet.com/news/microsoft-patent-details-tech-that-could-turn-dead-people-into-ai-chatbots/
+Sharing Bernie Sander's words.  Bernie Sander is a US senator from Vermont:
+
+
+## 1/25/2021
+Day 47: Continue with the optional projects
+AI Reading:  Hong Kong based Hanson Robotics said four models, including a humanoid robot named Sophia, would start rolling out of factories in the first half of 2021, just as researchers predict the pandemic will open new opportunities for the robotics industry
+https://www.reuters.com/article/us-hongkong-robot-idUSKBN29U03X
+
+## 1/26/2021
+Day 48:  Continue with the optional projects
+AI reading:  Not directly related to the field of AI but a much fundamentally deeper topic that will eventually disrupt AI and more.  Elon Musk wants to provide internet for all.  What would be the ramification of this plan and its development?
+"Starlink is a low-Earth satellite constellation that aims to provide broadband internet to the remotest of places in the world. To date, SpaceX has launched around 1,000 satellites for the service and is now signing up early customers in the US, UK and Canada, as reported by Bloomberg."
+https://www.indiatimes.com/technology/news/after-auto-and-space-elon-musk-aims-to-disrupt-telecom-sector-with-starlink-satellite-internet-532667.html  
+
+## 1/27/2021
+Day 49: Working on the optional projects
+Sharing an insightful ML map
+
+## 1/28/2021
+
+Day 50: Was unable to work on the optional projects but I actively participated in AI discussions, reflections, and spent some time reading various topics.
+
+AI reading:  I am about to share 2 separate articles that are deceptively closely related:  Google, AI, and people in between,  And two more for references.  The first one is about Google, previously, shared, replied to my post by @Teng Lei a few days ago and I ran across it again today.  It's about, as we've been hearing if we paid attention, Google having a management problem now - in other words, what it actually means that their management is lacking soft skills or how about 'people skills' or emotional intelligence, EI, human empathy - before Google can move on to anything else, in the clear direction of AI for Google's future and the second article is use and development of autonomous weapons powered by AI software, interestingly enough the US government appointed panel, led by no one but former Google Chief Executive Eric Schmidt - in fact, I have read and shared to my network, I believe sometime last year, about Eric Schmidt starting a (defense) government-funded university to train AI coder, AI school. In this article, the panel argues that 'it is a moral imperative' to develop AI weapons.  Wow!  The more efficient way to kill people and animals and destroy livelihood across the globe!
+
+This is a difficult topic to discuss, surely, I think, first, Google and the US government are gigantic entities with superpower seemingly; we don't have much information/data from them except what we gather news like these, classified information to probe into.  Google's management skill has been supremely fantastic to the point that they themselves became their own stumbling block that they can't move forward, finally, it backfired them; thanks to their lack of people skills and consideration that Google employees from across the globe formed a union alliance now.  Google should pretend, at least, they are not robots, humans and acknowledge that their employees are human too with feelings and thoughts working for them and others with the hope they can make difference in the world.  
+
+"In a previously unreported move, Mustafa Suleyman, co-founder of Google’s London-based artificial-intelligence arm, DeepMind, was stripped in late 2019 of most management responsibilities after complaints that he bullied staff, according to people familiar with the matter."
+
+https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945?reflink=desktopwebshare_permalink
+
+2 . "The US should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel has said in a draft report for Congress.
+
+The panel, led by former Google chief executive Eric Schmidt, on Tuesday concluded two days of public discussion about how the world’s biggest military power should consider AI for national security and technological advancement.
+
+Its vice-chairman, Robert Work, a former deputy secretary of defense, said autonomous weapons are expected to make fewer mistakes than humans do in battle, leading to reduced casualties or skirmishes caused by target misidentification.
+
+“It is a moral imperative to at least pursue this hypothesis,” he said."
+
+https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel
+
+Your thoughts, please.  This requires careful attention, thoughtful consideration and I thought why not share with you all who might be working in these very sectors and will have to make decisions soon or later?!  It's not an easy topic to discuss and some of you might find it boring, even disagree, so please don't feel obligated to make any comments but have these in your mind as a (future) product manager.   Who knows some of you might be working for Google or Eric Schmidt's AI school!  I am thankful our paths have crossed @Nibz.Ka @Sulin@Roseanne Robertson @Ijeoma Ndu @UlrikeS @Alexa. N. @Alberto M @Alem Getu @michaelkariuki @Anderson @Joanna Pol @Enzo Erbano @Etendra Verma @OlaDaniel @Sharang Sarda @shahzad @La Selene Dommu @Abayomi @Martina L. @Moz @Daniel Montilla @Ronny Andrade @Sebastian Rivera Podesta @shahzad @Dana Redeña @Marco_ @Frosty @Stanley Okonkwo @Michael Bennett @Teng Lei @F1li @Zahra'a HM @Jan S @Marco Nobili @Vijay Venugopal @Shrivar Singh @Evi Giannakou @Emmanuel Pinnick @Amardeep Singh 
