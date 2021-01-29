@@ -452,3 +452,12 @@ Its vice-chairman, Robert Work, a former deputy secretary of defense, said auton
 https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel
 
 Your thoughts, please.  This requires careful attention, thoughtful consideration and I thought why not share with you all who might be working in these very sectors and will have to make decisions soon or later?!  It's not an easy topic to discuss and some of you might find it boring, even disagree, so please don't feel obligated to make any comments but have these in your mind as a (future) product manager.   Who knows some of you might be working for Google or Eric Schmidt's AI school!  I am thankful our paths have crossed @Nibz.Ka @Sulin@Roseanne Robertson @Ijeoma Ndu @UlrikeS @Alexa. N. @Alberto M @Alem Getu @michaelkariuki @Anderson @Joanna Pol @Enzo Erbano @Etendra Verma @OlaDaniel @Sharang Sarda @shahzad @La Selene Dommu @Abayomi @Martina L. @Moz @Daniel Montilla @Ronny Andrade @Sebastian Rivera Podesta @shahzad @Dana Redeña @Marco_ @Frosty @Stanley Okonkwo @Michael Bennett @Teng Lei @F1li @Zahra'a HM @Jan S @Marco Nobili @Vijay Venugopal @Shrivar Singh @Evi Giannakou @Emmanuel Pinnick @Amardeep Singh 
+
+## 1/29/21
+
+Day 51: Working on the optional projects and corresponding with #sg_strictly_projects teams
+Happy Friday and sharing Buckminster Fuller's words and Padraig O Tuama's The Facts of Life from Onbeing
+
+So you might as well live
+and you might as well love.
+https://onbeing.org/poetry/the-facts-of-life/
