@@ -461,3 +461,43 @@ Happy Friday and sharing Buckminster Fuller's words and Padraig O Tuama's The Fa
 So you might as well live
 and you might as well love.
 https://onbeing.org/poetry/the-facts-of-life/
+
+## 1/30/2021
+
+Day 52:  AI reading and reflection
+
+Secretive agency uses AI, human 'forecasters' to predict the future
+A U.S. government intelligence agency develops cutting-edge tech to predict future events.
+https://bigthink.com/technology-innovation/secretive-agency-uses-ai-human-forecasters-to-predict-future
+
+## 1/31/2021
+
+Day 53:  Reviewed 5 Must-Read Books on Ethics in AI
+https://chimera-swa.medium.com/5-must-read-books-on-ethics-in-ai-d4ed1225f98d
+
+## 2/1/2021
+
+Day 54: Working on the optional projects
+
+AI reading:  A very interesting read from 2018 and I am wondering how it is now, 2021: 
+'Dubai is at least attempting to attract firms and investors from around the world—unlike China, whose autocratic leadership has pursued AI dominance through homegrown technology while laying down hurdles for foreign entrants like Silicon Valley giants Facebook and Google. “Dubai is in an amazing position to welcome great ideas from all over the world,” says Khalfan Juma Belhoul, CEO of the Dubai Future Foundation, touting its proposed “country in residence” program that will help other nations develop new technologies. The type of government behind the initiatives “absolutely” does not matter, he says.'
+'Derq co-founder Amer Abufadel states his view more bluntly. “Probably not being a democracy sometimes helps,” he says. “There’s one decision-maker who says, ‘We want to push forward,’ and everybody follows. There’s little room for debate. Once the leader says it, it needs to happen.”
+That top-down approach sounds very much like a corporation, but a lack of democratic oversight can lead to corruption and cronyism. While the UAE ranks relatively high on countries that successfully resist graft—it’s No. 21 on Transparency International’s ranking of 180 nations—its model of governance may at some point turn into a hindrance.'
+https://time.com/5195292/dubai-artificial-intelligence-derq-strategy/
+
+## 2/2/2021
+
+Day 55: Continue with the optional projects
+
+AI reading: 
+
+'An MIT computer scientist has found a way to increase robots' response time with a customized computer chip.
+It could strengthen the connection between a robot's mind and body, allowing it to perform more 'human' tasks more effectively.
+This innovative work could eventually relieve humans of risk in a range of settings, such as caring for COVID-19 patients or manipulating heavy objects.'
+
+“Ideally we can eventually fabricate a custom motion-planning chip for every robot, allowing them to quickly compute safe and efficient motions,” he says. “I wouldn't be surprised if 20 years from now every robot had a handful of custom computer chips powering it, and this could be one of them.” Neuman adds that robomorphic computing might allow robots to relieve humans of risk in a range of settings, such as caring for covid-19 patients or manipulating heavy objects.
+
+“This work is exciting because it shows how specialized circuit designs can be used to accelerate a core component of robot control,” says Robin Deits, a robotics engineer at Boston Dynamics who was not involved in the research. “Software performance is crucial for robotics because the real world never waits around for the robot to finish thinking.” He adds that Neuman’s advance could enable robots to think faster, “unlocking exciting behaviors that previously would be too computationally difficult.”
+
+Neuman next plans to automate the entire system of robomorphic computing. Users will simply drag and drop their robot’s parameters, and “out the other end comes the hardware description. I think that’s the thing that’ll push it over the edge and make it really useful.”
+ https://www.weforum.org/agenda/2021/01/robots-artificial-intelligence-machine-learning-algorithms-technology-science
