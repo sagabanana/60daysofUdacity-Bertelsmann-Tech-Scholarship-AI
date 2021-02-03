@@ -501,3 +501,18 @@ This innovative work could eventually relieve humans of risk in a range of setti
 
 Neuman next plans to automate the entire system of robomorphic computing. Users will simply drag and drop their robot’s parameters, and “out the other end comes the hardware description. I think that’s the thing that’ll push it over the edge and make it really useful.”
  https://www.weforum.org/agenda/2021/01/robots-artificial-intelligence-machine-learning-algorithms-technology-science
+
+## 2/3/2021
+
+1. Continue with the optional projects
+2. Reading about "uncanny" and "uncanny valley" thanks to @enzo for enlightening me and other scholars! 
+
+https://en.m.wikipedia.org/wiki/Uncanny
+
+https://www.cam.ac.uk/research/news/scientists-identify-possible-source-of-the-uncanny-valley-in-the-brain
+
+Sharing The See Me: A Global Concert starring the Cellist Yo-Yo Ma and more starts ~30:10, enjoy!!
+
+'This session will close with the world premiere of “See Me: A Global Concert”, a shared expression of trust, connection and hope. This unique cinematic journey features orchestras and choirs in Beijing, Drakensberg, Florence, Kabul, Philadelphia, Vienna and São Paulo, with the cellist Yo-Yo Ma and Music Director Marin Alsop. The concert was filmed on location despite the challenges of COVID-19 and was made possible with major support from Intesa Sanpaolo.'
+
+https://www.weforum.org/events/the-davos-agenda-2021/sessions/the-davos-agenda-2021-welcome-27th-crystal-awards-and-see-me-a-global-concert
