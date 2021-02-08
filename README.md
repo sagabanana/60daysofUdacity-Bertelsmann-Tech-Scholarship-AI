@@ -504,6 +504,8 @@ Neuman next plans to automate the entire system of robomorphic computing. Users 
 
 ## 2/3/2021
 
+Day 56:
+
 1. Continue with the optional projects
 2. Reading about "uncanny" and "uncanny valley" thanks to @enzo for enlightening me and other scholars! 
 
@@ -516,3 +518,111 @@ Sharing The See Me: A Global Concert starring the Cellist Yo-Yo Ma and more star
 'This session will close with the world premiere of “See Me: A Global Concert”, a shared expression of trust, connection and hope. This unique cinematic journey features orchestras and choirs in Beijing, Drakensberg, Florence, Kabul, Philadelphia, Vienna and São Paulo, with the cellist Yo-Yo Ma and Music Director Marin Alsop. The concert was filmed on location despite the challenges of COVID-19 and was made possible with major support from Intesa Sanpaolo.'
 
 https://www.weforum.org/events/the-davos-agenda-2021/sessions/the-davos-agenda-2021-welcome-27th-crystal-awards-and-see-me-a-global-concert
+
+
+1. The facial recognition app Clearview AI is not welcome in Canada and it should delete citizens' faces from its database, Canada’s privacy commissioner, Daniel Therrien, said on Wednesday. “What Clearview does is mass surveillance, and it is illegal,” he said.
+https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html
+2. Why Is Artificial Intelligence Female?
+“When you think of an assistant you tend to think of their voice as female and it has to do with the way that labor is gendered and stratified,” said Michelle Habell-Pallan, an associate professor in Gender, Women, and Sexuality Studies at the University of Washington. “So that’s no accident. That’s more something that’s out there in the cultural field that gets reproduced then in the technology. And it becomes a loop where, if you’re not conscious, you just think this is inevitable and this is the way it is. It creates this illusion that this is the way it is, how it has been, and how it shall be.”
+'“I believe that robots will become people,” Sophia’s creator, David Hanson, told GeekWire. “I believe that in time they will develop the complete capability of a human, to understand us, to have general intelligence and the willful desire to grow and reach their potential the way that humans experience it.”
+When asked if that potential included love, companionship, and sex, Hanson said he believes it’s an inevitable future. But Hanson Robotics, which also builds male robots, is not headed that direction.'
+'“In terms of how we are trained to relate to particular genders, there’s a kind of comfort that is associated with female voices,” Habell-Pallan says. “So, more warm, more welcoming, more nurturing, all those associations that are connected with women that are not necessary essential qualities but are socially constructed.”
+In order to get consumers to adopt new technologies, Habell-Pallan says, their engineers choose female personalities, which are perceived as less threatening. At least, that’s the case in most countries. Siri is male, by default, in the UK.
+“Americans speak loudly and clearly and are usually in a hurry, so it makes sense for them to have a female voice because it has the pitch and range,” technology consultant Jeremy Wagstaff told The Guardian. “British people mumble and obey authority, so they need someone authoritative.”
+Wagstaff’s theory is speculative, as Apple has declined to comment on why the UK Siri is male. Generally, experts say that a female voice is easier for consumers to tolerate and communicate with.'
+https://www.newworldai.com/why-is-artificial-intelligence-female
+
+## 2/4/2021
+
+Day 57:
+
+Continue with the optional projects
+AI Reading:
+1. The facial recognition app Clearview AI is not welcome in Canada and it should delete citizens' faces from its database, Canada’s privacy commissioner, Daniel Therrien, said on Wednesday. “What Clearview does is mass surveillance, and it is illegal,” he said.
+https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html
+2. “When you think of an assistant you tend to think of their voice as female and it has to do with the way that labor is gendered and stratified,” said Michelle Habell-Pallan, an associate professor in Gender, Women, and Sexuality Studies at the University of Washington. “So that’s no accident. That’s more something that’s out there in the cultural field that gets reproduced then in the technology. And it becomes a loop where, if you’re not conscious, you just think this is inevitable and this is the way it is. It creates this illusion that this is the way it is, how it has been, and how it shall be.”
+'“I believe that robots will become people,” Sophia’s creator, David Hanson, told GeekWire. “I believe that in time they will develop the complete capability of a human, to understand us, to have general intelligence and the willful desire to grow and reach their potential the way that humans experience it.”
+When asked if that potential included love, companionship, and sex, Hanson said he believes it’s an inevitable future. But Hanson Robotics, which also builds male robots, is not headed that direction.'
+'“In terms of how we are trained to relate to particular genders, there’s a kind of comfort that is associated with female voices,” Habell-Pallan says. “So, more warm, more welcoming, more nurturing, all those associations that are connected with women that are not necessary essential qualities but are socially constructed.”
+In order to get consumers to adopt new technologies, Habell-Pallan says, their engineers choose female personalities, which are perceived as less threatening. At least, that’s the case in most countries. Siri is male, by default, in the UK.
+“Americans speak loudly and clearly and are usually in a hurry, so it makes sense for them to have a female voice because it has the pitch and range,” technology consultant Jeremy Wagstaff told The Guardian. “British people mumble and obey authority, so they need someone authoritative.”
+Wagstaff’s theory is speculative, as Apple has declined to comment on why the UK Siri is male. Generally, experts say that a female voice is easier for consumers to tolerate and communicate with.'
+https://www.newworldai.com/why-is-artificial-intelligence-female
+
+Lastly, I am attaching today's humor below.  The foods start with "th":  thweet thotato, thanana, theaweed, thark thotholate ... thounds thasty
+
+## 2/5/2021
+
+Day 58:
+
+Working on the optional projects
+
+AI reading:  
+
+The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6, the day when radicalized Trump supporters stormed the building in a riot that resulted in five people's deaths. The creator of Faces of the Riot says his goal is to allow anyone to easily sort through the faces pulled from those videos to identify someone they may know or recognize who took part in the mob, or even to reference the collected faces against FBI wanted posters and send a tip to law enforcement if they spot someone.
+
+"Everybody who is participating in this violence, what really amounts to an insurrection, should be held accountable," says the site's creator, who asked for anonymity to avoid retaliation. "It's entirely possible that a lot of people who were on this website now will face real-life consequences for their actions."
+
+https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition
+
+Lastly, This may be of interest to you
+
+Twitter on Tuesday announced a significant shift in the type of data it makes available for free to third-party academic researchers interested in studying user behaviors and trends related to online discourse. Now, Twitter says it will no longer require researchers pay for premium or enterprise developer access and will instead make the “full history of public conversation” — what the company refers to as its full-archive search endpoint — available to any researcher or developer who applies as part of the launch of a new academic research track.
+
+https://www.theverge.com/2021/1/26/22250203/twitter-academic-research-public-tweet-archive-free-access
+
+Friday night's humour:  NLP Cheat Sheet, Jabba The Hut
+
+## 2/6/2021
+
+Day 59: Reviewed and participated in the Socratic Seminar, the first question on the bias in AI lead by @OlaDaniel during the Study Jam.  
+
+Sharing Thich Nhat Hanh's invitation to go deeper, to learn and to practice -
+
+
+## 2/7/2021
+
+Day 60:  The final 60 days of Udacity #60daysofudacity.  Working on the optional projects and will be continuously working on the projects even after the 60 days of completion tonight, continuing tomorrow, Day 61.  
+
+To celebrate the final day I am sharing David Whyte's poem, 'Sweet Darkness' from 'The House of Belonging'
+
+He wrote:
+
+"This poem was written out of that very physical and almost breathless giving away, most human beings feel, when they must let go of what seems most precious to them, not knowing how or when it will return, in what form or in what voice - that taking away of the light walking through divorce or separation, through bereavement or through simply not recognizing the person looking back at us in the mirror. Sweet Darkness was written in a kind of defiant praise of this difficult time of not knowing, a letter of invitation to embrace the beauty of the night and of the foundational human experience of not being able to see, as actually another horizon, and perhaps the only horizon out of which a truly new revelation can emerge. The last line cuts both ways of course, we ourselves have often helped to make everything and everyone around us, far too small, by our lack of faith in the midst of a necessary not knowing, by all the ways we are not holding the conversation."
+
+SWEET DARKNESS
+
+When your eyes are tired 
+the world is tired also.
+When your vision has gone, 
+no part of the world can find you.
+Time to go into the dark 
+where the night has eyes 
+to recognize its own.
+There you can be sure 
+you are not beyond love.
+The dark will be your home 
+tonight.
+The night will give you a horizon 
+further than you can see.
+You must learn one thing. 
+The world was made to be free in.
+Give up all the other worlds 
+except the one to which you belong.
+Sometimes it takes darkness 
+and the sweet 
+confinement of your aloneness 
+to learn
+anything or anyone 
+that does not bring you alive
+is too small for you.
+…
+‘Sweet Darkness’
+From ‘The House of Belonging’
+Poems by David Whyte
+
+https://onbeing.org/poetry/sweet-darkness/
+
+Thought of the night:
+
+I don't want to earn my living.  I want to live.
